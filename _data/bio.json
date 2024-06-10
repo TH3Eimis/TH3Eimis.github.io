@@ -7,23 +7,24 @@
     "phone": "N/A",
     "website": "https://killagarila.github.io",
     "summary": "I am studying for a B.S. in Computer Science in Computer Sciences at the University of the West of England. I expect to graduate in Summer, 2024.",
-    "location": { "address": "", "postalCode": "", "city": "Bristol", "countryCode": "UK", "region": "Bristol" },
+    "location": { "city": "Bristol", "countryCode": "UK", "region": "Bristol" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "GitHub", "username": "TH3Eimis", "url": "http://github.com/th3eimis" },
+      { "network": "LinkedIn", "username": "Eimantas Miliauskis", "url": "http://linkedin.com/in/eimantas-miliauskis" },
+      { "network": "Instagram", "username": "eimis.m", "url": "http://instagram.com/eimis.m" }
     ]
   },
   "interests": [
-    { "name": "Artifical Intelligence" },
+    { "name": "Artificial Intelligence" },
     { "name": "Software Engineering" },
-    { "name": "Database Design" }
+    { "name": "Database Design" },
+    { "name": "Rollerblading" },
+    { "name": "Automation" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "C++", "Javascript", "Flask", "Django REST", "MySQL", "NoSQL" ]
+      "keywords": [ "Python", "C++", "Javascript", "Flask", "Django REST", "MySQL", "NoSQL", "Agile development", "Kotlin", "Json" ]
     },
     {
       "name": "Toolsets/OS",
@@ -36,7 +37,7 @@
       "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2021",
-      "endDate": "Present",
+      "endDate": "2024",
       "courses": [
       ]
     }
