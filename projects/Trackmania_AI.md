@@ -12,7 +12,7 @@ summary: "A genetic algorithm designed to optimise agents decisions to realtime 
 ---
 
 <hr>
-<img class="img-fluid" src="img/tmai_edge.png">
+<img class="img-fluid" src="./img/tmai_edge.png">
 <p>Currently the agents use edge/curve prediction to navigate their surroundings by allowing them to recognise borders and navigate around.</p>
 <hr>
 
