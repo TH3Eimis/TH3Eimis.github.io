@@ -11,15 +11,9 @@ labels:
 summary: "A genetic algorithm designed to optimise agents decisions to realtime data retrived from Trackmania nations forever"
 ---
 
-<img class="img-fluid" src="">
-
-
 <hr>
-
-<pre>
-Currently the agents use edge/curve prediction to navigate their surroundings by allowing them to recognise borders and navigate around.
-</pre>
-
+<img class="img-fluid" src="img/tmai_edge.png">
+<p>Currently the agents use edge/curve prediction to navigate their surroundings by allowing them to recognise borders and navigate around.</p>
 <hr>
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i></a>
