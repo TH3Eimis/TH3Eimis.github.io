@@ -21,7 +21,7 @@ summary: "Android app made to reduce food waste by allowing users to select ingr
 <td><img class="img-fluid" src="../img/ecochef/reci1.png"></td>
 <td><img class="img-fluid" src="../img/ecochef/reci2.png"></td>
   </tr>
-</tb>
+</table>
 <hr>
 
 Source: <a href="https://github.com/TH3Eimis/ecochef"><i class="large github icon "></i></a>
