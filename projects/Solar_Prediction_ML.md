@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: (path to image)
+image: https://github.com/TH3Eimis/solar_ML/blob/main/diagrams/Heatmap.png
 title: "Solar efficiency prediction algorithm"
 date: 2023
 published: True
