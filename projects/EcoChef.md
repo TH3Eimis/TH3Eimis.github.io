@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "../img/ecochef_logo.png"
+image: img/ecochef_logo.png
 title: "EcoChef"
 date: 2023
 published: True
