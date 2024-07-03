@@ -8,16 +8,17 @@ published: true
 labels:
   - Python
   - HTML
-  - CSS
+  - Jira
   - Docker
   - Jupyter NB
 summary: "A Logo swapping AI that can replace a logo from one/many images using a model trained on the new logo"
 ---
 
 <hr>
-Worked together via agile practices with a group of 5 individuals to create a Django framework website that contained different user types [standard, admin, ai-engineer, finance]
+<p>Worked together via agile practices with a group to create an application with a Django front end.</p>
+<p>Our group maintained communication through Jira and held meetings twice a week, ensuring we stayed focused and on track throughout the project. </p>
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon ">Swappy Repository</i></a>
+Source: <a href=""><i class="large github icon ">Swappy Repository</i></a>
  
 
