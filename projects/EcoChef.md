@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ecochef/logo.png
 title: "EcoChef"
-date: 2023
+date: 2024
 published: True
 labels:
   - Kotlin
