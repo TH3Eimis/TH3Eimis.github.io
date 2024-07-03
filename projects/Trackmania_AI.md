@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: (path to image)
+image: img/tmnf_img.png
 title: "Trackmania AI"
 date: 2024
 published: true
