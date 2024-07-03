@@ -18,5 +18,5 @@ summary: "A genetic algorithm designed to optimise agents' decisions to real-tim
 <p>The program retrieves the in-game data using TMInterface (https://donadigo.com/tminterface/) a tool used to create and run TMNF plugins, this allowed me to create a plugin that was directly able to read the game data and then communicate with a socket connection running on the main python code</p>
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i></a>
+Source: <a href="https://github.com/TH3Eimis/TMAI/tree/main"><i class="large github icon "></i>TMAI Repository</a>
  
