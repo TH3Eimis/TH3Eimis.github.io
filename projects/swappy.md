@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: (path to image)
+image: img/SWAPPY-LOGO.png
 title: "Swappy"
 date: 2024
 published: true
