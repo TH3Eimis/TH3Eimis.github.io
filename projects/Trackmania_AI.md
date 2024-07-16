@@ -15,19 +15,25 @@ summary: "Developed a genetic algorithm to control agents attempting to complete
 
 <h>Role: Developer</h>
 <hr>
-- Utilized TMinterface to directly interact with Trackmania, allowing the plugin to read game data and send control inputs. TMinterface details: https://donadigo.com/tminterface/
+- Utilized TMinterface to directly interact with Trackmania, allowing the plugin to read game data and send control inputs. TMinterface details: [https://donadigo.com/tminterface/](https://donadigo.com/tminterface/)
 <hr>
-- Established a socket connection on localhost port 8477 to facilitate real-time communication between the game plugin and Python code.
+- Established a socket connection on localhost port 8000 to facilitate real-time communication between the game plugin and Python code.
+<img class="img-fluid" src="../img/tmai/port.png">
 <hr>
 - Designed the system to read game state changes, trigger the execution of agents and collect performance data.
+<img class="img-fluid" src="../img/tmai/state.png">
 <hr>
 - Implemented a reward system that evaluates agents based on track completion time, medals earned average speed, and crash count, driving the evolutionary process.
+<img class="img-fluid" src="../img/tmai/fitness.png">
 <hr>
 - Developed agent "vision" by capturing screenshots of the Trackmania tab, applying preprocessing, and cropping around a region of interest (ROI).
+<img class="img-fluid" src="../img/tmai/roi.png">
 <hr>
 - Enabled agents to use edge and curve prediction for navigation, allowing them to recognize borders and navigate effectively.
+<img class="img-fluid" src="../img/tmai/edge.png">
 <hr>
 - Conducted extensive testing to fine-tune the algorithm and improve the overall performance and reliability of the agents.
+<img class="img-fluid" src="../img/tmai">
 <hr>
 Source: <a href="https://github.com/TH3Eimis/TMAI/tree/main"><i class="large github icon ">TMAI Repository</i></a>
  
