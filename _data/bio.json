@@ -15,9 +15,9 @@
     ]
   },
   "interests": [
-    { "name": "Artificial Intelligence\n" },
-    { "name": "Software Engineering\n" },
-    { "name": "Climate Change\n" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Software Engineering" },
+    { "name": "Climate Change" },
     { "name": "Sustainability" },
     { "name": "Database Design" }
   ],
