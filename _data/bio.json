@@ -6,7 +6,7 @@
     "email": "milieimantas@gmail.com",
     "phone": "N/A",
     "website": "https://killagarila.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in Computer Sciences at the University of the West of England. I expect to graduate in Summer, 2024.",
+    "summary": "I recently graduated with a B.S. in Computer Science from the University of the West of England, with expected completion in Summer 2024. I am passionate about leveraging technology to solve real-world problems and continuously seeking opportunities to learn and grow in the field of computer science.",
     "location": { "city": "Bristol", "countryCode": "UK", "region": "Bristol" },
     "profiles": [
       { "network": "GitHub", "username": "TH3Eimis", "url": "http://github.com/th3eimis" },
@@ -19,9 +19,7 @@
     { "name": "Software Engineering" },
     { "name": "Climate Change" },
     { "name": "Sustainability" },
-    { "name": "Database Design" },
-    { "name": "Rollerblading" },
-    { "name": "Automation" }
+    { "name": "Database Design" }
   ],
   "skills": [
     {
@@ -37,7 +35,7 @@
     {
       "institution": "The University of the West of England",
       "area": "Computer Science",
-      "studyType": "B.S.",
+      "studyType": "BSc",
       "startDate": "2021",
       "endDate": "2024",
       "courses": [
