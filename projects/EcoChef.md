@@ -26,5 +26,7 @@ summary: "Android app made to reduce food waste by allowing users to select ingr
   </tr>
 </table>
 <hr>
+- Conducted extensive testing to ensure app functionality and performance.
 
+<hr>
 Source: <a href="https://github.com/TH3Eimis/ecochef"><i class="large github icon ">EcoChef Repository</i></a>
