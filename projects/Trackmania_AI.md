@@ -13,15 +13,20 @@ labels:
 summary: "Developed a genetic algorithm to control agents attempting to complete a Trackmania map. The project focused on optimizing performance based on various metrics such as time taken, medal achieved, average speed, and crash count."
 ---
 
-<hr>
-<p>Role: Developer</p>
+<h>Role: Developer</h>
 <hr>
 - Utilized TMinterface to directly interact with Trackmania, allowing the plugin to read game data and send control inputs. TMinterface details: https://donadigo.com/tminterface/
+<hr>
 - Established a socket connection on localhost port 8477 to facilitate real-time communication between the game plugin and Python code.
+<hr>
 - Designed the system to read game state changes, trigger the execution of agents and collect performance data.
+<hr>
 - Implemented a reward system that evaluates agents based on track completion time, medals earned average speed, and crash count, driving the evolutionary process.
+<hr>
 - Developed agent "vision" by capturing screenshots of the Trackmania tab, applying preprocessing, and cropping around a region of interest (ROI).
+<hr>
 - Enabled agents to use edge and curve prediction for navigation, allowing them to recognize borders and navigate effectively.
+<hr>
 - Conducted extensive testing to fine-tune the algorithm and improve the overall performance and reliability of the agents.
 <hr>
 Source: <a href="https://github.com/TH3Eimis/TMAI/tree/main"><i class="large github icon ">TMAI Repository</i></a>
