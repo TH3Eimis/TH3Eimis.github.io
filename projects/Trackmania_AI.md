@@ -8,15 +8,22 @@ published: true
 labels:
   - Python
   - Angelscript
-summary: "A genetic algorithm designed to optimise agents' decisions to real-time data retrieved from Trackmania nations forever"
+  - TMInterface
+  - Socket Programming
+summary: "Developed a genetic algorithm to control agents attempting to complete a Trackmania map. The project focused on optimizing performance based on various metrics such as time taken, medal achieved, average speed, and crash count."
 ---
 
 <hr>
-<p>An agent "vision" consists of a screenshot of the Trackmania Tab to which some preprocessing is applied and the image is cropped around an ROI (region of interest) </p>
-<img class="img-fluid" src="../img/tmai_edge.png">
-<p>Agents use edge/curve prediction to navigate their surroundings, allowing them to recognise borders and navigate around.</p>
-<p>The program retrieves the in-game data using TMInterface (https://donadigo.com/tminterface/) a tool used to create and run TMNF plugins, this allowed me to create a plugin that was directly able to read the game data and then communicate with a socket connection running on the main python code</p>
+<p>Role: Developer</p>
+</hr>
 <hr>
-
+*Utilized TMinterface to directly interact with Trackmania, allowing the plugin to read game data and send control inputs. TMinterface details: https://donadigo.com/tminterface/
+*Established a socket connection on localhost port 8000 to facilitate real-time communication between the game plugin and Python code.
+*Designed the system to read game state changes, triggering the execution of agents and collecting performance data.
+*Implemented a reward system that evaluates agents based on track completion time, medals earned, average speed, and crash count, driving the evolutionary process.
+*Developed agent "vision" by capturing screenshots of the Trackmania tab, applying preprocessing, and cropping around a region of interest (ROI).
+*Enabled agents to use edge and curve prediction for navigation, allowing them to recognize borders and navigate effectively.
+*Conducted extensive testing to fine-tune the algorithm and improve the overall performance and reliability of the agents.
+</hr>
 Source: <a href="https://github.com/TH3Eimis/TMAI/tree/main"><i class="large github icon ">TMAI Repository</i></a>
  
