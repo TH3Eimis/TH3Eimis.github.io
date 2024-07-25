@@ -40,7 +40,7 @@ A sophisticated AI system developed to interact with Trackmania, designed to rea
 - Conducted extensive testing and optimization.
 
 **Challenges Faced:**
-Integrating real-time communication and developing an effective reward system were challenging. Resolved these by optimizing the socket connection and fine-tuning the reward metrics.
+Integrating real-time communication and developing an effective reward system was challenging. Resolved these by ensuring an optimized socket connection as well as fine-tuning the reward metrics.
 
 **Achievements and Outcomes:**
 - Improved agent performance significantly with faster track completion times and fewer crashes.
