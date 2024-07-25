@@ -30,7 +30,7 @@ A sophisticated AI system developed to interact with Trackmania, designed to rea
 - Socket Programming
 
 **Project Duration:**
-- December 2023 - March 2024
+- December 2023 - April 2024
 
 **Role and Responsibilities:**
 - Integrated TMinterface to interact with Trackmania.
