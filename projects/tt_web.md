@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/tt_web/tennis_ball.png
 title: "Tennis Tournament Website"
-date: February 2023
+date: 2023
 published: True
 labels:
   - Python
