@@ -4,7 +4,7 @@ type: project
 image: img/tt_web/tennis_ball.png
 title: "Tennis Tournament Website"
 date: February 2023
-published: False
+published: True
 labels:
   - Python
   - HTML
@@ -13,6 +13,7 @@ labels:
   - Flask
 summary: "Design and Create a Tournament web application that would allow staff to upload tennis tournament data and individual match results from an ongoing or completed tennis match/tournament. The system automatically allocates points based on user-defined targets, stores and retrieves game data from a MySQL database, and displays an automatically generated tournament bracket."
 ---
+
 **Project Description:**
 The project goal was to create a simple web application which allows staff to upload tennis tournament data --from an ongoing or completed tennis match/tournament. The system automatically allocates points based on user-defined targets, stores and retrieves game data from a MySQL database, and displays an automatically generated tournament bracket.
 
