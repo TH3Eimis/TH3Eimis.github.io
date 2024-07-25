@@ -54,7 +54,7 @@ Challenges included ensuring accurate point allocation based on variable user-de
 </p>
 <p align="center">
   <img src="../img/tt_web/leaderboard.png" alt="Automated Points Allocation" width="300" />
-  <br>Figure 2: Automated Points Allocation
+  <br>Figure 2: Leaderboards & Automated Points Allocation
 </p>
 <p align="center">
   <img src="../img/tt_web/bracket.png" alt="Tournament Bracket Display" width="300" />
@@ -62,5 +62,5 @@ Challenges included ensuring accurate point allocation based on variable user-de
 </p>
 
 
-Source: <a href="https://github.com/TH3Eimis/solar_ML"><i class="large github icon ">Solar ML Repository</i></a>
+Source: <a href="https://github.com/TH3Eimis/tennis-tournament-web/tree/main"><i class="large github icon ">Tennis tournament repository</i></a>
  
