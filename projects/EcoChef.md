@@ -16,8 +16,10 @@ summary: "Android app made to reduce food waste by allowing users to select ingr
 An Android app designed to reduce food waste by allowing users to select ingredients or dietary requirements to find relevant recipes.
 
 **Key Features:**
-- **Ingredient Selection:** Designed and developed an Android application using Kotlin and Java to reduce food waste by enabling users to select ingredients or dietary preferences and find relevant recipes. [Figure 1]
-- **Recipe Scraping:** Implemented a scraping mechanism to extract recipes from the BBC Foods website based on user-selected ingredients and dietary restrictions. [Figure 2]
+- **Ingredient Selection:** Enabled users to select ingredients they have on hand to find relevant recipes, reducing food waste. [Figure 1]
+- **Preference Selection:** A feature allowing users to set dietary preferences and restrictions for personalized recipe recommendations. [Figure 2]
+- **Recipe Scraping:** Implemented a scraping mechanism to extract recipes from the BBC Foods website based on user selections. [Figure 3]
+- **Interactive/Appealing UI:** Set up an interactive and appealing UI to enhance user experience, user retention and engagement. [Figure 4]
 - **Extensive Testing:** Conducted extensive testing to ensure app functionality and performance.
 
 **Technologies Used:**
