@@ -8,7 +8,7 @@ published: True
 labels:
   - Kotlin
   - Java
-summary: "Android app made to reduce food waste by allowing users to select ingredients or dietary requirements to find recipes."
+summary: "EcoChef is an Android application designed to minimize food waste by allowing users to select ingredients or dietary preferences and discover relevant recipes. Developed using Kotlin and Java, the app features an intuitive UI, a robust recipe scraping mechanism, and personalized recipe recommendations based on user inputs."
 ---
 
 
