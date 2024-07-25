@@ -40,6 +40,7 @@ An Android app designed to reduce food waste by allowing users to select ingredi
 
 **Challenges Faced:**
 Handling diverse dietary requirements and ensuring the accuracy of scraped data was challenging. These issues were resolved by implementing robust filtering mechanisms and error handling during the scraping process.
+Since this was the first time for all team members to program with Kotlin, a significant portion of our time was dedicated to debugging and refining functions while simultaneously learning the language.
 
 **Achievements and Outcomes:**
 - Received positive feedback from users for its ease of use and helpfulness in reducing food waste.
