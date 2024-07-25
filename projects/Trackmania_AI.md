@@ -10,7 +10,7 @@ labels:
   - Angelscript
   - TMInterface
   - Socket Programming
-summary: "Developed a genetic algorithm to control agents attempting to complete a Trackmania map. The project focused on optimizing performance based on various metrics such as time taken, medal achieved, average speed, and crash count."
+summary: "Trackmania AI (TMAI) is a project that integrates with the Trackmania game to develop and train AI agents. Utilizing TMinterface for real-time data interaction and performance tracking, the system features advanced agent "vision," edge and curve prediction, and a reward system for optimizing gameplay."
 ---
 **Project Description:**
 A sophisticated AI system developed to interact with Trackmania, designed to read game data, send control inputs, and optimize agent performance through real-time communication and advanced image processing.
