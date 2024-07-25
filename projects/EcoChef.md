@@ -26,10 +26,10 @@ An Android app designed to reduce food waste by allowing users to select ingredi
 - Web Scraping
 
 **Project Duration:**
-- Start Date to End Date (e.g., January 2024 - June 2024)
+- Start Date to End Date (e.g., November 2023 - January 2024)
 
 **Role and Responsibilities:**
-- Set up the UI framework.
+- Set up the UI design.
 - Add preferences to the web scraping process.
 - Researched various techniques for recipe displaying.
 - Bug-fixed the recipe selection and recipe searching screen.
