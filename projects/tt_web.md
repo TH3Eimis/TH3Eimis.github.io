@@ -11,7 +11,7 @@ labels:
   - CSS
   - MySQL
   - Flask
-summary: "Design and Create a Tournament web application that would allow staff to upload tennis tournament data and individual match results from an ongoing or completed tennis match/tournament. The system automatically allocates points based on user-defined targets, stores and retrieves game data from a MySQL database, and displays an automatically generated tournament bracket."
+summary: "Design and Create a Tournament web application that would allow staff to upload tennis tournament data and individual match results from an ongoing or completed tennis match/tournament."
 ---
 
 **Project Description:**
