@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tm_pic.png
+image: img/tmai/tm_pic.png
 title: "Trackmania AI"
 date: 2024
 published: true
