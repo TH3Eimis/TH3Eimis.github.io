@@ -48,7 +48,7 @@ Integrating real-time communication and developing an effective reward system wa
 - Successfully demonstrated the effectiveness of using image processing for game agent navigation.
 
 **Links:**
-- [Project Repository](#https://github.com/TH3Eimis/TMAI/tree/main)
+- [Project Repository](https://github.com/TH3Eimis/TMAI/tree/main)
 
 **Screenshots:**
 <p align="center">
